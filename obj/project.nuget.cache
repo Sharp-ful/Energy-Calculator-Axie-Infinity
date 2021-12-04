@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HdbuAyP6UHc58E2XMW7espKd5jmTInZTNF+Uky2IMAtBhCa58KaO/1P10WaGnDAnca/rk3SHtsZcMuT2bFUM+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel\\Desktop\\Code Stash\\Coding\\Energy Calculator - Copy\\Energy Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

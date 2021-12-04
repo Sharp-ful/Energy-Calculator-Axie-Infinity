@@ -1,0 +1,53 @@
+C:\Users\Miguel\Desktop\Energy Calculator\obj\Debug\netcoreapp3.1\Energy Calculator.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Energy Calculator\obj\Debug\netcoreapp3.1\Energy Calculator.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Energy Calculator\obj\Debug\netcoreapp3.1\Energy Calculator.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Energy Calculator\obj\Debug\netcoreapp3.1\Energy Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Energy Calculator\bin\Debug\netcoreapp3.1\Energy Calculator.exe
+C:\Users\Miguel\Desktop\Energy Calculator\bin\Debug\netcoreapp3.1\Energy Calculator.deps.json
+C:\Users\Miguel\Desktop\Energy Calculator\bin\Debug\netcoreapp3.1\Energy Calculator.runtimeconfig.json
+C:\Users\Miguel\Desktop\Energy Calculator\bin\Debug\netcoreapp3.1\Energy Calculator.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Energy Calculator\bin\Debug\netcoreapp3.1\Energy Calculator.dll
+C:\Users\Miguel\Desktop\Energy Calculator\bin\Debug\netcoreapp3.1\Energy Calculator.pdb
+C:\Users\Miguel\Desktop\Energy Calculator\obj\Debug\netcoreapp3.1\Energy Calculator.dll
+C:\Users\Miguel\Desktop\Energy Calculator\obj\Debug\netcoreapp3.1\Energy Calculator.pdb
+C:\Users\Miguel\Desktop\Energy Calculator\obj\Debug\netcoreapp3.1\Energy Calculator.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.dll
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.pdb
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.exe
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.deps.json
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.runtimeconfig.json
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.dll
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.pdb
+C:\Users\Miguel\Desktop\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.exe
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.deps.json
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.runtimeconfig.json
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.dll
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.pdb
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.dll
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.pdb
+C:\Users\Miguel\Desktop\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.genruntimeconfig.cache
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.exe
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.deps.json
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.runtimeconfig.json
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.dll
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\bin\Debug\netcoreapp3.1\Energy Calculator.pdb
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.dll
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.pdb
+C:\Users\Miguel\Desktop\Code Stash\Coding\Energy Calculator - Copy\obj\Debug\netcoreapp3.1\Energy Calculator.genruntimeconfig.cache
